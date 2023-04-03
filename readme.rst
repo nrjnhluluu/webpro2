@@ -1,3 +1,10 @@
+Nama Kelompok :
+Lulu Nurjanah Z
+Cut Dara NurFadhilah
+Iqbal Fadilla
+Evan Tri Pamungkas
+Ahmad Rifki
+
 ###################
 What is CodeIgniter
 ###################
